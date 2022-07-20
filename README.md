@@ -30,7 +30,7 @@ Nesta aula, nosso objetivo foi transformar as imagens dos filmes em figurinhas c
 
 <h1 align ="center"> Terceira Aula </h1>
 Esta aula baseou-se, no consumo de uma nova API, no caso a da NASA, como o Json era semelhante ao da API do IMDB, não houve a necessidade de grandes alterações, realizamos a implementação de classes destinadas a extrair o conteudo de cada uma dessas APIs, além disso implementei a classe GerarUrl, para capturar as duas URLs e através do terminal, selecionar qual URL será utilizada, porntando sendo necessário somente escolher o extrator que será utilizado. 
-Também realizamos a refatoração do código, para uma melhor organização do mesmo e realizei o desafio de criar uma exceção que será utilizada na classe responsável pelo HTTPP.REQUEST.
+Também realizamos a refatoração do código, para uma melhor organização do mesmo e realizei o desafio de criar uma exceção que será utilizada na classe responsável pelo HTTP.REQUEST.
 
 <h4 align="center"> 
 > :construction: Projeto em construção :construction:
