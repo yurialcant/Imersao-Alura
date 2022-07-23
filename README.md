@@ -70,3 +70,15 @@ Resultado da uso do projeto linguagem.api no projeto alura-stickers:
 ![Captura de Tela (75)](https://user-images.githubusercontent.com/102321564/180587840-a4960d25-850f-41d5-9a38-928b28c17b7d.png)
 
 
+<h1 align ="center"> Quinta Aula </h1>
+
+Na nossa útlima aula nosso desafio foi publicar nossa API no cloud, para isso nos utilizamos do maven para compactar nosso projeto linguagem.api em um arquivo.jar, utizamos o Heroku que é uma plataforma como serviço para fazer a publicação do nosso projeto, sendo necessário usar os comandos do git para enviar nossos arquivos e assim publicando nossa API na url: https://yuri-alura-linguagens-api.herokuapp.com/linguas.
+
+Resultado da API publicada:
+
+
+![Captura de Tela (76)](https://user-images.githubusercontent.com/102321564/180588103-62e7394e-ee85-4b0d-b4e3-169645bd1722.png)
+
+
+
+
