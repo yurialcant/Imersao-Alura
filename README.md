@@ -49,3 +49,24 @@ Exemplificação do uso da Exceção criada:
 ![Captura de Tela (70)](https://user-images.githubusercontent.com/102321564/180095808-8ca36c5f-157f-4951-970c-7c8e90f28216.png)
 
 
+<h1 align ="center"> Quarta Aula </h1>
+
+Nesta aula criamos nossa própria API, utilizamos o Spring para criar o nosso projeto linguagem.api onde nele poderiamos colocar o nome de uma linguagem de programação, utilizar o mesmo projeto alura-stickes para criar figurinhas das logos das linguagens e também poderíamos rankear as linguagens, utilizamos o mongodb para criar nosso banco de dados para a linguagem.api assim iniciando os primeiros passos para publicação do nosso projeto, além disso também criamos o CRUD na linguagem.api para realizar operações como o get, post, update e delete através do aplicativo postman.
+
+
+<h4 align="center"> 
+> :construction: Projeto em construção :construction:
+</h4>
+
+CRUD criado no projeto linguagem.api:
+
+
+![Captura de Tela (74)](https://user-images.githubusercontent.com/102321564/180587794-b05a97e5-cd71-4c2c-a8ba-503a8fc56c16.png)
+
+
+Resultado da uso do projeto linguagem.api no projeto alura-stickers:
+
+
+![Captura de Tela (75)](https://user-images.githubusercontent.com/102321564/180587840-a4960d25-850f-41d5-9a38-928b28c17b7d.png)
+
+
