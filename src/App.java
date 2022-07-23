@@ -12,10 +12,12 @@ public class App {
        // Realizar uma conexão HTTP e selecionar através do terminal o que o usuário deseja
             
         System.out.println("O que você deseja ver?");
-        System.out.println("1- Top 3 filmes do IMDB\n2- 3 imagens da Nasa");
+        System.out.println("1- Top 3 filmes do IMDB\n2- 3 imagens da Nasa\n3- Api de Linguagens");
         Scanner pegarOpcao = new Scanner(System.in);
         Integer opcaoEscolhida = pegarOpcao.nextInt();
 
+       
+       
         String url = GerarUrl.setUrl(opcaoEscolhida);
         ClienteHttp http = new ClienteHttp();
         String json = http.buscaDados(url);
