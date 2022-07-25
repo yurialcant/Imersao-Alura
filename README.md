@@ -5,6 +5,13 @@
 
 Este projeto está sendo realizado durante a Imersão Java da Alura, onde criamos uma aplicação java que consome uma API do IMDB visando a criação de Stickers para aplicativos de mensagens.
 
+| 🪧 Vitrine.Dev |     |
+| -------------  | --- |
+| ✨ Nome        | Alura Stickers
+| 🏷️ Tecnologias | Java, Spring, MongoDB, Heroku, Git
+| 🚀 URL         | https://yuri-alura-linguagens-api.herokuapp.com/linguas
+| 🤿 Desafio | https://www.alura.com.br/imersao-java
+
 <h1 align ="center"> Resultados Obtidos </h1>
 
 
