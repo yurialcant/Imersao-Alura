@@ -1,6 +1,6 @@
 <h1 align ="center"> Imersão Alura Stickers </h1>
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=%20COMPLETO&color=GREEN&style=for-the-badge"/>
 </p>
 
 Este projeto está sendo realizado durante a Imersão Java da Alura, onde criamos uma aplicação java que consome uma API do IMDB visando a criação de Stickers para aplicativos de mensagens.
