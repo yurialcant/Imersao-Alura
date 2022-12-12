@@ -12,6 +12,9 @@ Este projeto está sendo realizado durante a Imersão Java da Alura, onde criamo
 | 🚀 URL         | https://yuri-alura-linguagens-api.herokuapp.com/linguas
 | 🤿 Desafio | https://www.alura.com.br/imersao-java
 
+
+![](https://user-images.githubusercontent.com/102321564/179855032-ea6289dd-2d03-4326-8015-6d3582db98ed.png#vitrinedev)
+
 <h1 align ="center"> Resultados Obtidos </h1>
 
 
